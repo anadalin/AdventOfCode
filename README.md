@@ -1,5 +1,5 @@
 # Advent Of Code
-This is my repository for the [Advent of Code](https://adventofcode.com/) event
+This is my repository for the [Advent of Code](https://adventofcode.com/) event using Python
 
 ## Structure
 - 2023
